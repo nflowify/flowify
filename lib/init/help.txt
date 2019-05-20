@@ -1,0 +1,11 @@
+Init git project with flowify:
+
+  flowify init <options>
+
+Options
+
+  -d, --directory
+      Project folder
+
+  -h, --help
+      Show this help message

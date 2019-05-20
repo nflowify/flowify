@@ -1,0 +1,35 @@
+{
+  "name": "flowify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flowify.js",
+  "bin": {
+    "flowify": "flowify.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nflowify/flowify.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nflowify/flowify/issues"
+  },
+  "homepage": "https://github.com/nflowify/flowify#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "commist": "^1.1.0",
+    "inquirer": "^6.3.1",
+    "make-promises-safe": "^5.0.0",
+    "simple-git": "^1.110.0",
+    "slugify": "^1.3.4",
+    "yargs-parser": "^13.0.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

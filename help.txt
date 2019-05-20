@@ -1,0 +1,4 @@
+Available commands:
+
+  flowify init <options>
+  flowify add feature <options>
